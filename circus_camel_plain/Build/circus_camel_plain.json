@@ -1,0 +1,13 @@
+{
+"companyName": "Zero Experience Studio",
+"productName": "Circus Camel",
+"dataUrl": "circus_camel_plain.data.unityweb",
+"asmCodeUrl": "circus_camel_plain.asm.code.unityweb",
+"asmMemoryUrl": "circus_camel_plain.asm.memory.unityweb",
+"asmFrameworkUrl": "circus_camel_plain.asm.framework.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20"
+}
