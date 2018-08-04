@@ -1,0 +1,14 @@
+{
+"companyName": "Zero Experience Studio",
+"productName": "Making The Ecosystem",
+"dataUrl": "ecosystem.data.unityweb",
+"asmCodeUrl": "ecosystem.asm.code.unityweb",
+"asmMemoryUrl": "ecosystem.asm.memory.unityweb",
+"asmFrameworkUrl": "ecosystem.asm.framework.unityweb",
+"TOTAL_MEMORY": 75497472,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"dataUrl": "must-revalidate"}
+}
