@@ -1,0 +1,16 @@
+{
+"companyName": "Zero Experience Studio",
+"productName": "Dungeon of Problems",
+"dataUrl": "2156426a6b424f72af964a7a04bfcfc4.unityweb",
+"wasmCodeUrl": "b8153cb44f3e6d63d2de960ac7e84a5d.unityweb",
+"wasmFrameworkUrl": "2bf7204402544d508279f016468c019b.unityweb",
+"asmCodeUrl": "0ef5489ca5bf2827f52d93e1c11a3682.unityweb",
+"asmMemoryUrl": "6829894132be398ab490994525ba6b05.unityweb",
+"asmFrameworkUrl": "86167a7c1ca7691c1f84159a0ff44e70.unityweb",
+"TOTAL_MEMORY": 134217728,
+"graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"}
+}
