@@ -17,7 +17,7 @@
       "survival_1_1_2": 203,
       "survival_1_1_3": 254,
       "survival_1_1_4": 283,
-      "survival_1_1_5": 387,
+      "survival_1_1_5": 391,
       "survival_1_1_6": 117,
       "survival_1_1_7": 193,
       "survival_1_1_8": 86,
@@ -96,7 +96,7 @@
       "trait_run_effect": 38,
       "trait_jump_name": 15,
       "trait_jump_desc": 190,
-      "trait_jump_effect": 39,
+      "trait_jump_effect": 39
     }
   },
   "en": {
@@ -116,7 +116,7 @@
     "survival_1_1_2": "We will now begin with the first stage. In this stage, you will learn about environmental traits. An environmental trait is characteristic or feature of an organism that is influenced by its environment.",
     "survival_1_1_3": "Meet Fonz, the ancient camel. He is a new kid on the desert. He has just come from the plains and hasn't adapted yet for living in the desert. Let us help him to survive in the desert, shall we?\r\n\r\nBut first, let us learn about how to play this game.",
     "survival_1_1_4": "This is the health indicator. It shows the health and stamina of the camel. When the red circle around the health icon is gone, it means the health is zero. If the health becomes zero, that means Fonz has passed away. And you will lose the game. Please take caution about the health.",
-    "survival_1_1_5": "This is the food indicator. It shows how much food has Fonz stored in his body. When the circle around the food icon is gone, then it means the camel is starving. When Fonz is starving, he will lose health by a lot every second, until you can find food to fill his stomach again.",
+    "survival_1_1_5": "This is the food indicator. It shows how much food has Fonz stored in his body. When the circle around the food icon is gone, then it means the camel is starving. When Fonz is starving, he will lose health by a lot every second, until you can find food to fill his stomach again.\r\n\r\nAs you can see, Fonz's stomach is still half full. What you need to do now is to get some food for Fonz.",
     "survival_1_1_6": "This is a bush. It contains all the nutrients and food to keep organisms, such as a camel like Fonz, living and well.",
     "survival_1_1_7": "And this is a cactus. Just like the bush, it also contains all the nutrients and food to keep organisms alive and well.\r\n\r\nHowever, you should be wary about its thorns. They might hurt you.",
     "survival_1_1_8": "Tap to dismiss the dialog, and then move the camel to the bush and cactus to eat them.",
